@@ -18,7 +18,7 @@
 {"key":"觅知","name": "觅知","api": "https://www.zbfmw.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":15},
 {"key":"1080P资源","name": "1080P资源","api": "https://1080api.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":16},
 {"key":"淘片资源","name": "淘片资源","api": "https://taopianapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":17},
-{"key":"海外看资源(VPN)","name": "海外看资源(VPN)","api": "https://haiwaikan.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":18},
+{"key":"海外看资源(VPN)"，"name": "海外看资源(VPN)","api": "https://haiwaikan.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":18},
 {"key":"乐视资源","name": "乐视资源","api": "https://leshizyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":19},
 {"key":"49资源","name": "49资源","api": "https://49zyw.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":20},
 {"key":"华为吧","name": "华为吧","api": "https://hw8.live/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":21},
